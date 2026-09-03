@@ -1,0 +1,15 @@
+{
+	"name": "factoryazuredeproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ce433cb5-4d97-4549-bcf0-ed4a92408d50",
+		"tenantId": "cf34746e-7a48-44bc-839e-83fd3d3c5b75"
+	}
+}
