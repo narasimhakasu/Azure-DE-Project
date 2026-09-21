@@ -1,0 +1,15 @@
+{
+	"name": "nashdeprojectdf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "80890d7a-3798-4773-9d21-b98564ead10e",
+		"tenantId": "cf34746e-7a48-44bc-839e-83fd3d3c5b75"
+	}
+}
